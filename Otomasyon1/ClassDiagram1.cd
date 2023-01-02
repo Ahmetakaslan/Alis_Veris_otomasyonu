@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Otomasyon1.AlinanUrunler" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>AlinanUrunler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.FormAnaSayfa" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAUACCABBAAAACAAAASAABAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>FormAnaSayfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.FormGirisYap" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAwAAIAAQCAQEDRAAASAAGgOAAEhghRhBAQAAQACAiA=</HashCode>
+      <FileName>FormGirisYap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.KayıtOl" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACCAAABAAAACAACACAQAAABAAMAAAAACAAAA=</HashCode>
+      <FileName>KayıtOl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.KullaniciVerileri" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgBAQACAgABQQAASBAEASAAAAAAAAACgAAAOIAAA=</HashCode>
+      <FileName>KullaniciVerileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAA4AAAAJABABAQAAAAAgCQBgAAAAAQIEAJBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABABAQAAAAAgCQBgAAAAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet2" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAA4AAAAJABAAAQAAAAAgCQBgAAAAAQAEAJBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Person" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAQAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.PersonDal" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAIAgAAACAAAAAAAAAAAAAAAMAAAAAAgAAAAAgAAA=</HashCode>
+      <FileName>PersonDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.ProductContext" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ProductContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.BaseThread" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAACAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.ProductDal" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAgAAA=</HashCode>
+      <FileName>ProductDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Products" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAAAAAAAACAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Program" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.SifreKurtar" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgIAEBCABABAAAACAAAACAAAAgAAAAGAAAgAgAAA=</HashCode>
+      <FileName>SifreKurtar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.ŞifreDeğiştir" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABCABABAAAACAAAACAAQAAMAAAEAAGAAAAAA=</HashCode>
+      <FileName>ŞifreDeğiştir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.FormÜrünAl" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAYAIgCCSAJQAQCCBAAASAhBAAQACgCAgACWUAAA=</HashCode>
+      <FileName>ÜrünAl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.FormÜrünSat" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBYAAAABBKIUARUA6gCAAAECAAgABAAyAHQRAAAQAAg=</HashCode>
+      <FileName>ÜrünSat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSetTableAdapters.PeopleTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSetTableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAACAAAABABIEBAAAAMAAgAAACgAAAAAYAAAAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet1TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAYAAAAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet2TableAdapters.PeopleTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.MainDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUAAACAAAABABIEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Migrations.Migration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAMAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAI=</HashCode>
+      <FileName>Migrations\202212141639147_hey.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon1.Migrations.Configuration" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Migrations\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEBAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon1.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
